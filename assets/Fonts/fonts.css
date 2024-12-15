@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'YekanRegular';
+	src: url('./IRANYekanRegular.woff2') format('woff2'),
+		 url('./IRANYekanRegular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+  }
+  
+@font-face {
+	font-family: 'YekanBold';
+	src: url('./IRANYekanBold.woff2') format('woff2'),
+		 url('./IRANYekanBold.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+  }
+  

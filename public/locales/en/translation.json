@@ -1,0 +1,270 @@
+{
+  "welcome": "Welcome to our website!",
+  "navigation": {
+    "Home": "Home",
+    "Services": "Services",
+    "AboutUs": "About",
+    "ContactUs": "Contact Us",
+    "FAQ": "FAQ",
+    "ServicesDetails": {
+      "service1": "Legal Consultation",
+      "service2": "Drafting and Reviewing Legal Documents",
+      "service3": "Legal Disputes",
+      "service4": "Criminal Matters",
+      "service5": "Fraud and Bribery Cases",
+      "service6": "Family Law Matters",
+      "service7": "Inheritance and Estate Matters",
+      "service8": "Property Law (Domestic & Commercial)",
+      "service9": "Registration and Intellectual Property",
+      "service10": "Tax Advisory and Representation",
+      "service11": "Commercial and Business Legal Services",
+      "service12": "Immigration Services",
+      "service13": "Arbitration and Mediation",
+      "service14": "Banking and Investment Consultation"
+    }
+  },
+  "CounterSection": {
+    "client": "clients",
+    "case": "cases",
+    "successRate": "Success Rate"
+  },
+  "heroSection": {
+    "title": "You Deserve the Best Defense",
+    "description": "Experienced lawyers specializing in various legal fields, ready to defend your rights",
+    "buttonText": "Start Conculation"
+  },
+  "OurServices": "How We Help",
+  "contactUsForm": {
+    "title": "Request a Consultation",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "submitButton": "Submit"
+  },
+
+  "ServiceSection": [
+    {
+      "service1": {
+        "title": "Legal Consultation",
+        "description": "Our expert legal advisors provide comprehensive guidance on various legal issues for individuals, businesses, and organizations. Whether you need clarification on complex regulations or advice tailored to your unique circumstances",
+        "offers": [
+          "One-on-one consultations to address specific concerns.",
+          "Legal strategies for dispute resolution or risk mitigation.",
+          "Guidance on compliance with national and international laws."
+        ]
+      }
+    },
+    {
+      "service2": {
+        "title": "Drafting and Reviewing Legal Documents",
+        "description": "Ensure your legal documents are accurate, enforceable, and tailored to your needs. Our services include:",
+        "offers": [
+          "Drafting contracts such as sales agreements, employment contracts, and partnership agreements.",
+          "Reviewing existing contracts to identify risks or ambiguities.",
+          "Assisting with amendments and updates to legal documents."
+        ]
+      }
+    },
+    {
+      "service3": {
+        "title": "Legal Disputes",
+        "description": "We represent individuals and businesses in all stages of legal disputes, ensuring the best possible outcome. Our services include:",
+        "offers": [
+          "Filing lawsuits and managing court proceedings.",
+          "Negotiating settlements outside the courtroom.",
+          "Providing defense or prosecution in civil, financial, and property-related disputes."
+        ]
+      }
+    },
+    {
+      "service4": {
+        "title": "Criminal Matters",
+        "description": "Protect your rights with our skilled criminal defense team. We handle cases involving:",
+        "offers": [
+          "White-collar crimes such as fraud and embezzlement.",
+          "Violent crimes, theft, and other criminal charges.",
+          "Appeals and post-conviction relief."
+        ]
+      }
+    },
+    {
+      "service5": {
+        "title": "Fraud and Bribery Cases",
+        "description": "Our team specializes in cases of financial misconduct, ensuring justice for all parties. Services include:",
+        "offers": [
+          "Defending individuals accused of fraud or corruption.",
+          "Investigating claims of financial deception or bribery.",
+          "Assisting whistleblowers and addressing corporate ethics violations."
+        ]
+      }
+    },
+    {
+      "service6": {
+        "title": "Family Law Matters",
+        "description": "Navigating family disputes can be challenging. Our compassionate legal team assists with:",
+        "offers": [
+          "Divorce proceedings, including asset division and alimony.",
+          "Custody battles and visitation rights for children.",
+          "Claims for dowry (Mehrieh) and spousal support."
+        ]
+      }
+    },
+    {
+      "service7": {
+        "title": "Inheritance and Estate Matters",
+        "description": "We provide expert legal support for matters related to wills and estates. Services include:",
+        "offers": [
+          "Drafting and validating wills in accordance with Islamic and Iranian laws.",
+          "Resolving disputes among heirs regarding estate distribution.",
+          "Advising on the management and administration of estates."
+        ]
+      }
+    },
+    {
+      "service8": {
+        "title": "Property Law (Domestic & Commercial)",
+        "description": "Protect your property rights with our experienced property law team. We assist with:",
+        "offers": [
+          "Real estate transactions, including buying, selling, and leasing.",
+          "Resolving disputes over property ownership and tenancy.",
+          "Advising on commercial property development and zoning regulations."
+        ]
+      }
+    },
+    {
+      "service9": {
+        "title": "Registration and Intellectual Property",
+        "description": "Safeguard your business and creative assets with our registration and intellectual property services. These include:",
+        "offers": [
+          "Registering companies, trademarks, and patents.",
+          "Drafting licensing agreements and protecting copyrights.",
+          "Representing clients in cases of intellectual property infringement."
+        ]
+      }
+    },
+    {
+      "service10": {
+        "title": "Tax Advisory and Representation",
+        "description": "Avoid legal complications and optimize your financial strategies with our tax advisory services:",
+        "offers": [
+          "Advising businesses and individuals on tax compliance and planning.",
+          "Representing clients in tax disputes or audits.",
+          "Assisting with international tax issues and cross-border compliance."
+        ]
+      }
+    },
+    {
+      "service11": {
+        "title": "Commercial and Business Legal Services",
+        "description": "Support your business operations with expert legal advice on:",
+        "offers": [
+          "Drafting and negotiating international and domestic contracts.",
+          "Handling mergers, acquisitions, and corporate restructuring.",
+          "Advising on import/export regulations and customs law."
+        ]
+      }
+    },
+    {
+      "service12": {
+        "title": "Immigration Services",
+        "description": "Simplify your immigration journey with our end-to-end services:",
+        "offers": [
+          "Visa application support for individuals and families.",
+          "Assisting with residency, citizenship, and asylum cases.",
+          "Advising businesses on hiring foreign talent and compliance with immigration laws."
+        ]
+      }
+    },
+    {
+      "service13": {
+        "title": "Arbitration and Mediation",
+        "description": "Resolve conflicts effectively outside of court through our arbitration and mediation services:",
+        "offers": [
+          "Acting as mediators to facilitate mutually beneficial agreements.",
+          "Representing clients in arbitration hearings.",
+          "Drafting and enforcing arbitration agreements."
+        ]
+      }
+    },
+    {
+      "service14": {
+        "title": "Banking and Investment Consultation",
+        "description": "Navigate the complexities of banking and investment with our expert legal advice:",
+        "offers": [
+          "Advising on investment strategies and financial regulations.",
+          "Assisting with loan agreements, securities, and asset management.",
+          "Protecting investors’ rights in financial disputes."
+        ]
+      }
+    }
+  ],
+  "serviceSectionButton": "More Info",
+  "footer": {
+    "textContent": "Persian Legal Services, by providing specialized legal services, consultation, advocacy, and contract drafting, is your reliable partner in resolving domestic and international legal matters.",
+    "agency":"proudly made by"
+  },
+  "all_services": {
+    "service_1": {
+      "title": "Legal Consultation",
+      "description": "In today's complex world, legal issues are more challenging than ever. With rapid advancements in economic, social, and technological fields, laws and regulations are constantly evolving and updating. These changes can sometimes lead to confusion and create challenges that require a deep and specialized understanding of the law. Our team of expert legal advisors is here to make this journey easier, assisting you at every step, from analyzing and clarifying laws to offering practical solutions and defending your rights.                Importance of Professional Legal Consultation                 Nowadays, even small decisions can have significant impacts on individuals' lives or the success of businesses. Legal consultation not only helps you prevent potential problems but can also serve as a foundation for growth and development. Whether dealing with personal matters like inheritance, real estate, and family disputes, or in commercial fields such as contracts, financial disputes, and regulatory compliance, having an informed and expert legal advisor is crucial.",
+      "offers": [
+        {
+          "id": 1,
+          "title": "Clear and Efficient Legal Consultation",
+          "offerOption": [
+            "Explaining laws and regulations in a simple and understandable language",
+            "Providing legal solutions tailored to your specific circumstances",
+            "Offering in-person and online consultations to save time and cost"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Drafting and Reviewing Reliable Legal Contracts",
+          "offerOption": [
+            "Preparing commercial, partnership, and contracting agreements with great precision",
+            "Reviewing and revising existing contracts to avoid potential risks",
+            "Providing consultation on legal aspects of transactions and agreements"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Resolving Legal Disputes and Cases",
+          "offerOption": [
+            "Mediating and negotiating to reach amicable agreements",
+            "Providing strong defense in legal cases",
+            "Managing complex legal cases with strategic solutions"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Guidance on National and International Laws",
+          "offerOption": [
+            "Helping businesses comply with local and global laws and regulations",
+            "Providing legal consultation on international trade",
+            "Conducting legal analysis for entering foreign markets or dealing with international partners"
+          ]
+        }
+      ]
+    },
+    "service_2":{
+      "title": "Drafting and Reviewing Legal Documents",
+      "description": "Ensure your legal documents are accurate, enforceable, and tailored to your needs. Our services include",
+      "offers":[
+        {
+          "id":1,
+          "title":"Drafting contracts such as sales agreements, employment contracts, and partnership agreements"
+        },
+        {
+          "id":2,
+          "title":"Reviewing existing contracts to identify risks or ambiguities."
+        },
+        {
+          "id":3,
+          "title":"Assisting with amendments and updates to legal documents."
+        }
+      ]
+    }
+  }
+}
